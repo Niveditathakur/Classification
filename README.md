@@ -8,7 +8,7 @@ Details of dataset used:
   Features	real, positive
 
 Classification_ensemble.ipynb
-# Classification
+#Classification
 Classification task with multiple classifiers on the breast cancer dataset
 #Weighted ensemble 
 Weighted ensemble of classifiers on the same dataset.
